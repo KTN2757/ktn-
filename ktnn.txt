@@ -1,1 +1,1 @@
-snkfskif 
+print "hello"
